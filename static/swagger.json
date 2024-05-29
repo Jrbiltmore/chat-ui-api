@@ -2,7 +2,8 @@
   "openapi": "3.0.0",
   "info": {
     "title": "Chat-UI API",
-    "version": "1.0.0",
+    "version": "1.0.1",
+    "author": "Jrbiltmore@icloud.com",
     "description": "API documentation for Chat-UI"
   },
   "paths": {
